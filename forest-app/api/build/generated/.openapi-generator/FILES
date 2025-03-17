@@ -1,0 +1,17 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/org/forest/api/controller/ApiUtil.java
+src/main/java/org/forest/api/controller/ForestApi.java
+src/main/java/org/forest/api/controller/TreeApi.java
+src/main/java/org/forest/api/model/CalculateForestAbsorption200Response.java
+src/main/java/org/forest/api/model/CalculateSurfaceNeeded200Response.java
+src/main/java/org/forest/api/model/Exposure.java
+src/main/java/org/forest/api/model/Forest.java
+src/main/java/org/forest/api/model/ForestCreationRequest.java
+src/main/java/org/forest/api/model/ForestCreationRequestTreesInner.java
+src/main/java/org/forest/api/model/ForestType.java
+src/main/java/org/forest/api/model/Species.java
+src/main/java/org/forest/api/model/Tree.java
+src/main/java/org/forest/api/model/TreeCreationRequest.java
+src/main/java/org/forest/api/model/TreeUpdateRequest.java
